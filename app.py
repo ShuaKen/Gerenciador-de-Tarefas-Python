@@ -21,3 +21,4 @@ while True:
     elif event == 'Resetar':
         janela.close()
         janela = criarJanelaInicial()
+        
